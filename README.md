@@ -1,7 +1,7 @@
 # Terraform Demo
 
 ## Semantic Versioning :mage: 
-
+:mage:
 Refer this url for [Semantic Versioning](https://semver.org/)
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
