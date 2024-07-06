@@ -25,4 +25,8 @@ terraform plan
 terraform apply
 terrafrom fmt
 terraform validate
+<<<<<<< HEAD
 terraform appply --auto-approve
+=======
+terraform appply --auto-approve
+>>>>>>> 2cca1b4 (updated readme file)
